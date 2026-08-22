@@ -47,5 +47,6 @@ def chinese_zodiac():
     print("\nYour Chinese Zodiac Sign is :", zodiac)
    
 chinese_zodiac()
-
+```
+---
 ![Program Output](output.png)
