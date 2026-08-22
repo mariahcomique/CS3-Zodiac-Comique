@@ -1,6 +1,4 @@
 # CS3-Zodiac-Comique
-
-```markdown
 # Computer Science Portfolio
 
 Welcome to my course repository portfolio! This repository hosts my source code files and performance task assignments.
